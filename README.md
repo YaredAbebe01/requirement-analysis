@@ -41,3 +41,15 @@ Requirement Analysis involves several key activities that help ensure software m
 
 - **Requirement Validation**  
   Reviewing and confirming the requirements with stakeholders to ensure they are complete, feasible, and accurately reflect the project goals. Validation reduces errors, minimizes rework, and ensures alignment with user expectations.
+## Types of Requirements
+
+In software development, requirements are generally classified into two main types:
+
+- **Functional Requirements**  
+  Describe what the system should do, including features, behaviors, and functions. Examples include user authentication, data entry, and report generation.
+
+- **Non-Functional Requirements**  
+  Describe how the system performs, focusing on quality attributes such as performance, security, scalability, reliability, and usability. Examples include response time, system uptime, and data encryption.
+
+- **Optional/Other Types**  
+  Some projects may also consider business requirements, regulatory requirements, and user interface requirements, which provide additional guidance for development.
