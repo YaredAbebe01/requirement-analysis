@@ -53,3 +53,30 @@ In software development, requirements are generally classified into two main typ
 
 - **Optional/Other Types**  
   Some projects may also consider business requirements, regulatory requirements, and user interface requirements, which provide additional guidance for development.
+  ## Use Case Diagrams
+
+**Use Case Diagrams** are a visual representation of the interactions between users (actors) and the system. They help identify and clarify functional requirements, showing what the system should do from the perspective of its users.
+
+### Benefits of Use Case Diagrams
+- Provide a clear overview of system functionality.  
+- Help stakeholders and developers understand user interactions.  
+- Facilitate communication and requirement validation.  
+- Serve as a basis for creating test cases.
+
+### Example: Booking System Use Case Diagram
+The diagram below represents a simple **Property Booking System**. It lists key actors and use cases:
+
+**Actors:**  
+- User  
+- Admin  
+
+**Use Cases:**  
+- Register / Login  
+- Search Properties  
+- Book Property  
+- Manage Bookings  
+- Update Property Listings (Admin)  
+- Delete Property Listings (Admin)  
+
+![Booking System Use Case Diagram](alx-booking-uc.png)
+
