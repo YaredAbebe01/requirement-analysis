@@ -79,4 +79,21 @@ The diagram below represents a simple **Property Booking System**. It lists key 
 - Delete Property Listings (Admin)  
 
 ![Booking System Use Case Diagram](alx-booking-uc.png)
+## Acceptance Criteria
+
+**Acceptance Criteria** are the conditions that a feature must meet to be considered complete and acceptable by stakeholders. They are a critical part of Requirement Analysis because they:  
+- Provide a clear definition of what “done” means for each feature.  
+- Help developers and testers understand the expected behavior of the system.  
+- Ensure that stakeholders and the development team have a shared understanding of requirements.  
+- Reduce misunderstandings, prevent rework, and improve software quality.  
+
+### Example: Checkout Feature in a Booking Management System
+For a **Checkout** feature, the acceptance criteria could include:  
+1. Users must be able to select a payment method (credit card, debit card, or online payment).  
+2. Users must receive a confirmation message after successful payment.  
+3. The system must prevent checkout if required booking details are missing.  
+4. The total booking amount must be correctly calculated based on selected properties and applicable taxes.  
+5. Payment transactions must be secure and encrypted.  
+
+These criteria ensure that the checkout feature works correctly and meets both user expectations and business requirements.
 
